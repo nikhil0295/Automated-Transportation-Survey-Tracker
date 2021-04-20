@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_intro_background">#FFFFFF</color>
+    <color name="hospital_name">#222222</color>
+    <color name="doctor_name">#999999</color>
+    <color name="tabsScrollColor">#A0A0A0</color>
+    <color name="colorSlidingTab">#7E57C2</color>
+    <color name="icon_email">#222222</color>
+    <color name="spinner_base_color">#44000000</color>
+    <color name="disabled_color">#44000000</color>
+    <color name="error_color">#E7492E</color>
+
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+</resources>
